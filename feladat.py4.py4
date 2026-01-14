@@ -1,0 +1,9 @@
+szoveg = input ("ird be a szoveget:")
+
+alkalom = int(input("hanyszor irjam ki?"))
+
+i = 0
+
+while i <alkalom:
+    print (szoveg)
+    i += 1
